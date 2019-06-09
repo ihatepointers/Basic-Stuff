@@ -1,0 +1,95 @@
+absorbsion absorbs a b s o r b s i_delete o_delete n_delete n_delete 
+abundacies abundance a b u n d a n_insert c i_delete e s_delete 
+accomadate accommodate a c c o m m_insert o_change d a t e 
+acheivments achievements a c h i_insert e i_delete v e_insert m e n t 
+acquiantence acquaintance a c q u a_insert i a_delete n t a_change n c e 
+acquiantences acquaintances a c q u a_insert i a_delete n t a_change n c e s 
+acustommed accustomed a c c_insert u s t o m m_delete e d 
+belives belies b e l i v_delete e s s 
+beng beg b e n_delete g g 
+bizzare bizarre b i z z_delete a r r_insert e 
+blaim baim b l_delete a i m m 
+blessure lesure l e s s_delete u r e r e 
+boaut boat b o a u_delete t t 
+borke bore b o r k_delete e e 
+Brasillian brasilia b_change r a s i l l_delete i a n_delete n_delete 
+broacasted boasted b r_delete o a c_delete a_delete s t e d d 
+broady OK
+buring bring b u_delete r i n g g 
+buring bring b u_delete r i n g g 
+buring bring b u_delete r i n g g 
+dissapearing disappearing d i s s_delete a p p_insert e a r i n g 
+dissapears disappears d i s s_delete a p p_insert e a r s 
+dissobediance disobedience d i s s_delete o b e d i e_change n c e e 
+dissobediant disobedient d i s s_delete o b e d i e_change n t t 
+doens dens d o_delete e n s s 
+duting dusting d u s_insert t i n g 
+earnt earn e a r n t_delete t_delete 
+ecidious deciduous e c i d u_change o u s u 
+ecomonic comic c o m o_delete n_delete i c i c 
+efel eel e f_delete e l l 
+eigth eighth e i g h_insert t h 
+electricly electric e l e c t r i c l_delete y_delete y_delete 
+embezelled embezzled e m b e z z_change l l_delete e d d 
+emition edition e d_change i t i o n n 
+herad head h e r_delete a d d 
+interrugum interregnum i n t e r r e_change g n_insert u m 
+ironicly ironic i r o n i c l_delete y_delete y_delete 
+iwll ill i w_delete l l l 
+judisuary diary d i s_delete u_delete a r y a r y 
+kwno kano k a_change n o o 
+layed flayed l a y e d e 
+leanr lean l e a n r_delete r_delete 
+lenght engh e n g h t_delete h t_delete 
+lisence licence l i c_change e n c e e 
+litature literature l i t e_insert r_insert a t u r 
+maintainance maintenance m a i n t a_delete e_change n a n c e e 
+maintinaing maintaining m a i n t a_insert i n a_delete i n g 
+maintioned maintained m a i n t a_insert i o_delete n e d 
+maked make m a k e d_delete d_delete 
+maltesian artesian a r_change t e s i a n a n 
+markes makes m a r_delete k e s s 
+nessecary essary e s s e_delete c_delete a r y r y 
+nkwo ko k w_delete o w_delete o 
+nucular nuclear n u c u_delete l e_insert a r 
+obstacal obstacle o b s t a c a_delete l e_insert 
+obstruced obstructed o b s t r u c t_insert e d 
+owrk bork o w_delete r k k 
+owudl owl o w u_delete d_delete l l 
+Palistian alsatian a l i_delete s a_insert t i a n n 
+pallete pallet p a l l e t e_delete e_delete 
+pamflet amulet a m u_change l e t e t 
+parituclar particular p a r t_insert i c_change u c_delete l a r 
+parralel parallel p a r r_delete a l l_insert e l 
+representive representative r e p r e s e n t a_insert t_insert i v 
+responnsibilty responsibility r e s p o n n_delete s i b i l i_insert t y 
+ressemblence resemblance r e s s_delete e m b l a_change n c e e 
+ressurection resurrection r e s s_delete u r r_insert e c t i o n 
+restaraunt restaurant r e s t a u_insert r a u_delete n t 
+surreptiously surreptitiously s u r r e p t i t_insert i_insert o u s l 
+surveilence surveillance s u r v e i l l_insert a_change n c e 
+suseptable susceptible s u s c_insert e p t i_change b l e 
+symettric metric m e t t_delete r i c r i c 
+symmetral symmetrical s y m m e t r i_insert c_insert a 
+sysmatically systematically s y s t_insert e_insert m a t i c a l l 
+tahn ahn a h n h n 
+taht tat t a h_delete t t 
+tath tat t a t h_delete h_delete 
+teached ached a c h e d h e d 
+teh eh e h e h 
+tehy techy t e c_insert h y 
+telelevision television t e l e l_delete e_delete v i s i o n n 
+unsuprized prized p r i z e d r i z e d 
+unweildly unwell u n w e i_delete l d_delete l y_delete y_delete 
+vailidty validity v a i_delete l i d i_insert t y 
+vell ell e l l l l 
+verison eison e r_delete i s o n o n 
+versitilaty versatility v e r s a_change t i l i_change t y y 
+vigeur viger v i g e u_delete r r 
+vreity reit r e i t y_delete t y_delete 
+wnat nat n a t a t 
+ws OK
+wtih th t i_delete h i_delete h 
+xenophoby xenophobia x e n o p h o b i_insert a_change 
+yearm year y e a r m_delete m_delete 
+ytou you y t_delete o u u 
